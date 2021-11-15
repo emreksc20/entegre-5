@@ -1,0 +1,272 @@
+@media screen and (max-width: 1500px) {
+  .contact-maps-item-2,
+  .contact-maps-item {
+    margin-left: 100px;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .contact-submit {
+    margin-left: 120px !important;
+  }
+  .contact-text-tittle span {
+    font-size: 3.5vw;
+    line-height: 60px !important;
+  }
+  .arrow-2-r {
+    width: 22% !important;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .contact-maps-item,
+  .contact-maps-item-2 {
+    margin-left: 70px;
+  }
+  #contact-items-text {
+    width: 85%;
+  }
+  .contact-submit {
+    margin-left: 80px !important;
+  }
+  .nav-text-item {
+    font-size: 1.5vw !important;
+    line-height: 22px;
+  }
+  .contact-text-tittle span {
+    font-size: 3.5vw;
+    line-height: 52px !important;
+  }
+  .nav-icon-footer {
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 1150px) {
+  .nav-icon-footer {
+    margin-left: -25px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .contact-form-res {
+    width: 90%;
+  }
+  .contact-btn {
+    margin-right: 0;
+  }
+  #contact-items-text {
+    font-size: 1.5vw;
+  }
+  .arrow-2 a {
+    font-size: 1.5vw;
+  }
+  #contact-items-text {
+    margin-left: 15px;
+  }
+  .contact-form-item-1 {
+    margin-top: 0 !important;
+  }
+  .get-in-touch {
+    width: 85%;
+    margin-left: 90px;
+  }
+  .get-in-touch-2 {
+    width: 85%;
+    margin-left: 90px;
+    margin-top: 30px;
+  }
+  .contact-submit {
+    margin-left: 0px !important;
+  }
+  #contact-tittle {
+    margin-left: 90px;
+  }
+  .contact-item-res {
+    width: 100%;
+  }
+  .nav-text-item {
+    font-size: 1.1vw !important;
+  }
+  .contact-maps-item,
+  .contact-maps-item-2 {
+    margin-left: 40px;
+  }
+  .contact-form .input-text-2,
+  .contact-form .input-text {
+    width: 100% !important;
+  }
+}
+@media screen and (max-width: 992px) {
+  .contact-item-2-res {
+    display: none;
+  }
+  .contact-item-3-res {
+    display: none;
+  }
+  .nav-text-tittle span {
+    font-size: 40px !important;
+    width: 80%;
+  }
+  .nav-text-item {
+    font-size: 1.5vw !important;
+    width: 100%;
+  }
+  .contact-form-res-2 {
+    display: none;
+  }
+  .contact-form-res-3 {
+    width: 100%;
+  }
+  #contact-items-text {
+    width: 90%;
+  }
+  #contact-items-tittle {
+    font-size: 3vw;
+  }
+}
+@media screen and (max-width: 850px) {
+  #contact-items-text {
+    width: 100%;
+    margin-left: 0;
+  }
+  .contact-items-text-r {
+    width: 90%;
+  }
+  .arrow-2-r {
+    width: 90% !important;
+  }
+  #contact-items-text {
+    font-size: 18px;
+  }
+  .arrow-2 a {
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .contact-text-tittle {
+    margin-top: 0;
+  }
+  .nav-text-item {
+    font-size: 2.2vw !important;
+    width: 80% !important;
+  }
+  .contact-text-tittle span {
+    font-size: 5vw;
+    line-height: 80px;
+  }
+  .contact-form .label-2,
+  .contact-form .label {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 767px) {
+  #contact-items-tittle {
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  .contact-form-res-5 {
+    margin-left: 45px;
+  }
+  .contact-maps-item-2,
+  .contact-maps-item {
+    margin-left: 45px;
+  }
+  .contact-form-res-6,
+  .contact-form-res-4 {
+    display: none;
+  }
+  #contact-tittle {
+    margin-left: 45px;
+  }
+  .arrow-5 {
+    display: none;
+  }
+  .contact-item-4-res {
+    display: none;
+  }
+  .contact-maps-1 {
+    margin-top: 0 !important;
+  }
+  .contact-maps-2 {
+    margin-top: -5px !important;
+  }
+  .contact-text-tittle span {
+    width: 85% !important;
+    margin-left: 45px;
+  }
+  .get-in-touch-2,
+  .get-in-touch {
+    width: 90%;
+    margin-left: 45px;
+  }
+}
+@media screen and (max-width: 575px) {
+  .contact-text-tittle span {
+    font-size: 5.3vw;
+    line-height: 45px !important;
+  }
+  #hamburger-icon {
+    display: block;
+  }
+  .arrow-2 svg {
+    margin-bottom: 5px;
+    margin-right: 10px;
+  }
+  #contact-items-tittle {
+    margin-bottom: 10px !important;
+    margin-top: 0 !important;
+  }
+  #contact-tittle {
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+  #contact-tittle,
+  .get-in-touch-2,
+  .get-in-touch {
+    margin-left: 45px;
+  }
+}
+@media screen and (max-width: 425px) {
+  #contact-items-text {
+    width: 95%;
+    margin-left: 0;
+    font-size: 3vw;
+  }
+  .contact-text-tittle span {
+    font-size: 5.8vw;
+    line-height: 35px !important;
+  }
+  .nav-text-item {
+    width: 95% !important;
+    font-size: 3.2vw !important;
+    line-height: 30px;
+  }
+  #section-6-phone {
+    margin-bottom: 50px;
+  }
+  #contact-items-tittle {
+    font-size: 4.2vw;
+  }
+  #contact-items-text {
+    width: 100%;
+    font-size: 3.8vw;
+    margin-bottom: 20px;
+  }
+}
+@media screen and (max-width: 375px) {
+  #contact-tittle {
+    font-size: 22px;
+  }
+  #contact-items-text {
+    width: 100%;
+    font-size: 3.8vw;
+    line-height: 30px;
+  }
+  .contact-form .input-text {
+    width: 85%;
+  }
+  .contact-form .input-text-2 {
+    width: 85%;
+  }
+  .contact-form .label-2,
+  .contact-form .label {
+    font-size: 11px;
+  }
+}
